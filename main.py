@@ -1,7 +1,7 @@
 from discord_webhook import *
 from datetime import datetime
 
-webhook_url = {insert webhook id here}
+webhook_url = {insert webhook url here}
 
 def log(event):
     now = datetime.now()
